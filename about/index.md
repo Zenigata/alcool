@@ -1,12 +1,12 @@
 ---
 layout: layouts/base.njk
-title: About
+title: À propos
 templateClass: tmpl-post
 eleventyNavigation:
-  key: About
+  key: À propos
   order: 3
 ---
 
-I am a person that writes stuff.
+Ceci est un travail personnel.
 
-This blog template is based on [eleventy-high-performance-blog](https://www.industrialempathy.com/posts/eleventy-high-performance-blog/) which itself is based on [eleventy-base-blog](https://github.com/11ty/eleventy-base-blog).
+Je me renseigne sur les formes de dépendance liées à l'alcool.

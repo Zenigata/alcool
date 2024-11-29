@@ -1,19 +1,27 @@
 ---
-title: This is my first post.
-description: This is a post on My Blog about agile frameworks.
-date: 2018-05-01
-scheduled: 2018-05-01
+title: L'alcoolisme est-une fatalité ?
+description: Ouvrage de Philipe de Timary
+date: 2024-11-29
+scheduled: 2024-11-29
 tags:
-  - another-tag
+  - livre
 layout: layouts/post.njk
-image: https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg
+image: https://www.alcool-info-service.fr/sites/default/files/styles/spf_node_ressource/public/a-lire-a-voir/L-alcoolisme-est-il-une-fatalite_10.jpg?itok=TEncdju5
 ---
 
-Leverage agile frameworks to provide a robust synopsis for high level overviews. Iterative approaches to corporate strategy foster collaborative thinking to further the overall value proposition. Organically grow the holistic world view of disruptive innovation via workplace diversity and empowerment.
+De Philipe de Timary.
 
-Bring to the table win-win survival strategies to ensure proactive domination. At the end of the day, going forward, a new normal that has evolved from generation X is on the runway heading towards a streamlined cloud solution. User generated content in real-time will have multiple touchpoints for offshoring.
+_« Je suis le premier à reconnaître qu'il s'agit d'un problème difficile à traiter, mais j'espère vous convaincre, avec ce livre, que ce défi peut être relevé, dans la plupart des cas, à partir du moment où l'on parvient à en décrypter la complexité. »
 
-![An image](https://cdn.pixabay.com/photo/2020/08/30/20/54/rice-field-5530707_1280.jpg)
+L'auteur explique les logiques biologique, affective, neurologique et sociale qui peuvent conduire une personne à développer une problématique alcoolique. Il insiste sur le lien fréquent entre une émotion insupportable et le recours à l'alcool. Il décrit aussi les effets de l'alcool sur l'humeur, les processus de pensée et le rapport aux autres.
+
+Comment déjouer les pièges de l'alcool ? Que peut faire la famille face à l'alcoolisme ? Quels sont les traitements à envisager ? Abstinence ou modération ? Quel est le rôle de la société face à ce fléau ? Exemples à l'appui, l'auteur répond à toutes ces questions._
+
+![An image](https://www.alcool-info-service.fr/sites/default/files/styles/spf_node_ressource/public/a-lire-a-voir/L-alcoolisme-est-il-une-fatalite_10.jpg?itok=TEncdju5)
+
+## Page 1
+
+TODO
 
 ## Section Header
 
