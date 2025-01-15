@@ -13,7 +13,7 @@
   
   <url>
     <loc>https://update-me.com/posts/001/</loc>
-    <lastmod>2025-01-15T22:41:01.000Z</lastmod>
+    <lastmod>2025-01-15T22:51:57.000Z</lastmod>
   </url>
   
   
@@ -28,7 +28,22 @@
   
   <url>
     <loc>https://update-me.com/posts/002/</loc>
-    <lastmod>2025-01-15T22:41:01.000Z</lastmod>
+    <lastmod>2025-01-15T22:51:57.000Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+    
+  
+  <url>
+    <loc>https://update-me.com/posts/003/</loc>
+    <lastmod>2025-01-15T22:51:57.000Z</lastmod>
   </url>
   
   
@@ -41,7 +56,7 @@
   
   <url>
     <loc>https://update-me.com/about/</loc>
-    <lastmod>2025-01-15T22:41:13.353Z</lastmod>
+    <lastmod>2025-01-15T22:52:09.215Z</lastmod>
   </url>
   
   
@@ -54,7 +69,7 @@
   
   <url>
     <loc>https://update-me.com/posts/</loc>
-    <lastmod>2025-01-15T22:41:13.353Z</lastmod>
+    <lastmod>2025-01-15T22:52:09.215Z</lastmod>
   </url>
   
   
@@ -67,7 +82,7 @@
   
   <url>
     <loc>https://update-me.com/</loc>
-    <lastmod>2025-01-15T22:41:13.369Z</lastmod>
+    <lastmod>2025-01-15T22:52:09.231Z</lastmod>
   </url>
   
   
@@ -80,7 +95,7 @@
   
   <url>
     <loc>https://update-me.com/page-list/</loc>
-    <lastmod>2025-01-15T22:41:13.373Z</lastmod>
+    <lastmod>2025-01-15T22:52:09.231Z</lastmod>
   </url>
   
   
@@ -93,7 +108,7 @@
   
   <url>
     <loc>https://update-me.com/tags/</loc>
-    <lastmod>2025-01-15T22:41:13.373Z</lastmod>
+    <lastmod>2025-01-15T22:52:09.231Z</lastmod>
   </url>
   
   
@@ -106,20 +121,7 @@
   
   <url>
     <loc>https://update-me.com/tags/evenement/</loc>
-    <lastmod>2025-01-15T22:41:13.373Z</lastmod>
-  </url>
-  
-  
-  
-  
-  
-  
-    
-  
-  
-  <url>
-    <loc>https://update-me.com/tags/second-tag/</loc>
-    <lastmod>2025-01-15T22:41:13.373Z</lastmod>
+    <lastmod>2025-01-15T22:52:09.231Z</lastmod>
   </url>
   
   
@@ -132,6 +134,19 @@
   
   <url>
     <loc>https://update-me.com/tags/livre/</loc>
-    <lastmod>2025-01-15T22:41:13.373Z</lastmod>
+    <lastmod>2025-01-15T22:52:09.231Z</lastmod>
+  </url>
+  
+  
+  
+  
+  
+  
+    
+  
+  
+  <url>
+    <loc>https://update-me.com/tags/second-tag/</loc>
+    <lastmod>2025-01-15T22:52:09.231Z</lastmod>
   </url>
 </urlset>
